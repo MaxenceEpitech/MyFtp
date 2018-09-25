@@ -12,8 +12,8 @@ $ ./server [ip] [port]
 Client (example via ftp) :
 ```
 $ ftp [ip] [port]
- Username : $ anonymous
- Password : $
+Username : $ anonymous
+Password : $
 ```
 
 ### Informations sur le projet:
