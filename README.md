@@ -1,25 +1,22 @@
 # MyFtp
 
-### Utilisation :
-
-Serveur :
-
+### Use of Server :
 ```
 $ make re
 $ ./server [ip] [port]
 ```
 
-Client (example via ftp) :
+### Use of Client (example with ftp) :
 ```
 $ ftp [ip] [port]
 Username : $ anonymous
 Password : $
 ```
 
-### Informations sur le projet:
+### Project Informations :
 
-Rélisation d'un serveur Ftp en language #C.
+MyFtp is a ftp server following RFC959 Protocol.
 
-Suit l'ancienne norme Epitech.
+It had been coded following Epitech's standart.
 
-Plus d'informations dans MyFtp.pdf.
+More informations in MyFtp.pdf.
